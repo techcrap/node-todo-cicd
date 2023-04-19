@@ -4,4 +4,4 @@ services:
   web:
     image: trainwithshubham/node-todo-app-cicd:latest
     ports:
-      - "8001:8001"
+      - "8000:8000"
